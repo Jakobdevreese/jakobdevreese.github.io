@@ -1,6 +1,8 @@
 ---
 layout: page
 title: "Contact"
+icon: fas fa-paper-plane
+order: 3
 permalink: /contact/
 ---
 
