@@ -1,8 +1,7 @@
 ---
-layout: categories
-title: Projects
-icon: fas fa-stream
-order: 2
+layout: page
+title: "Projects"
+permalink: /projects/
 ---
 
 ## 🔧 HVAC & Data
@@ -18,8 +17,9 @@ order: 2
   _Role:_ Concept, architecture, and design.  
   _Goal:_ Sustainable knowledge sharing within the international carillon community.
 
-- **Bach Concerts Ghent** — Django-based archive and concert database linking performances with YouTube recordings of organ music.
+- **Bach Concerts Ghent** — Django-based archive and concert database linking performances with YouTube recordings of organ music. Designing and maintaining of ticketing system and wiki docs for the organisation. And recoring, editing and publishing of videos of the concerts on social media.
 
 ## 🎬 Media
 
-- 🎥 **YouTube channel:** [Bach Concerts Ghent](https://youtube.com/@bachconcertsghent)
+- 🎥 **YouTube channel Bach Concerts Ghent:** [Bach Concerts Ghent](https://youtube.com/@bachconcertsghent)
+- 🎥 **YouTube channel Personal:** [Jakob De Vreese](https://www.youtube.com/@jakobdevreese)
