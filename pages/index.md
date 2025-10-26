@@ -14,4 +14,3 @@ I build robust software and data solutions for building management and energy op
 
 **Focus areas:** HVAC integrations • Building automation systems • Data pipelines • APIs • Python • SQL • Django • Docker • Power BI • Linux
 
-➡️ Explore my [Projects](/projects/) or learn more [About me](/about/).
