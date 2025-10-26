@@ -1,7 +1,7 @@
 ---
-layout: page
-title: "Projects"
-permalink: /projects/
+title: Projects
+icon: fas fa-laptop-code
+order: 2
 ---
 
 ## 🔧 HVAC & Data
