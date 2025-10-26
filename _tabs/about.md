@@ -22,5 +22,6 @@ Alongside technology, I am deeply engaged with cultural heritage as **City Caril
 
 ## Education
 
+- **Diploma of Carillonneur** - Royal Carillon School 'Jef Denyn' Mechelen
 - **Applied Informatics (Data Engineering & AI)** — HOGENT  
 - Ongoing professional development in HVAC automation, integration, and energy systems
